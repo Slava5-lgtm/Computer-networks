@@ -21,6 +21,7 @@ Lectures - Лекции
 Readme - Прочитай меня
                                 S
 Seminar - Семинар
+Switches - Переключатели
                                 T
 Teams - Команды
 Terminal - Терминал
