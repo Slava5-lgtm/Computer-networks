@@ -5,3 +5,12 @@ Switches-PT Switch0(этой модели не сушиствует), 2960-24TT 
 enable - режим с большой справкой
 show running-configu    -   посмотреть настройки
 Configuring from termina    -   упровлять настройками
+no - все отменяет
+Открыть вкладку Simulation нужно очистить фильтр Show All/None и во вкладке Edit Filters добавить пакеты
+которые нам нужны (покамеесь  ICMP) открываем что нам нужно (например РС2) во вкладке Desktop вбиваем
+команду ping и АдресIP (если конвертик с компа идет на другой и возрошяеться все нормально) может вылести
+ошибка (The maximum number of events has reached. Y ou may clear tht event list and continue from where
+you left off or adjiust the filters to view previous events(Доступно максимальное количество событий. Вы
+можете очистить список событий и продолжить ч стого место, на котором остоновились, или настроить фильтр
+для просмотра предедущих событий.) нажать Clear Event List (Очистить список событий)) и переходим в режим
+Realtime тогда п.н.у. закрываем Realtime и запускаем занова Simulation
