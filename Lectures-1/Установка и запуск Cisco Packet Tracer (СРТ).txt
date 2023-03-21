@@ -1,0 +1,4 @@
+Установка и запуск Cisco Packet Tracer (СРТ) - https://disk.yandex.ru/i/DUBUYHPuVxVnbw (дистрибутив можно
+скачать тут https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-
+and-linux.html )
+2. Знакомство с работой в СРТ - https://disk.yandex.ru/i/hG8NYNa4V_GCFQ
