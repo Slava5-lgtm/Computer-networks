@@ -14,8 +14,8 @@ Port Labels in Logical Workspace, Use Metric System (Uncheck to use imperial), S
 Telephony Sound, Show Qos Stamps on Packets, Show Cable info Popup in Physical Workspace посавит голочки
 (п.г.)
 Font -> измена шрифта
-Настраиваем АдресIP кликаем на оборудования л.к.м. Config -> FastEthernet0 -> IP Configuration -> Static ->
-IPv4 Adderss (АдресIP задаеться каждому компу индивидуально)  -> Subnet Mask (автоматически) -> можно
+Настраиваем АдресIP кликаем на оборудования л.к.м. Config -> FastEthernet0 -> IP Configuration -> Static
+-> IPv4 Adderss (АдресIP задаеться каждому компу индивидуально)  -> Subnet Mask (автоматически) -> можно
 выстовлять скорость но лучше выбрать авто Port Status Bandwidth (скорость) Duples
 Во вкладке  Desktop Command Prompt (командная строка) чтобы проверить связь между двумя РС набераем
 команду ping (если что то не правильно выдает ошибку Request timed out и набрать Ctrl+C)
